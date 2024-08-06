@@ -55,5 +55,7 @@ Make sure you have Node.js and npm installed. You can download them from [here](
 2. **Serve the production build locally:**
    ```bash
    npm run serve
+
+   [![Netlify Status](https://api.netlify.com/api/v1/badges/32f56e9a-a161-47e9-8a33-acd583773767/deploy-status)](https://app.netlify.com/sites/buzzbriefs/deploys)
    
 
