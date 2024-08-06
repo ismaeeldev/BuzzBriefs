@@ -30,7 +30,7 @@ Make sure you have Node.js and npm installed. You can download them from [here](
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/your-username/buzzbriefs.git
+   git clone https://github.com/ismaeeldev/BuzzBriefs.git
    
 2. **Navigate to the project:**
    ```bash
