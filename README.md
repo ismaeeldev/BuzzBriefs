@@ -31,3 +31,33 @@ Make sure you have Node.js and npm installed. You can download them from [here](
 1. **Clone the repository:**
    ```bash
    git clone https://github.com/your-username/buzzbriefs.git
+   
+2. **Navigate to the project:**
+   ```bash
+   cd buzzbriefs
+   
+3. **Install the dependencies:**
+   ```bash
+   npm install
+   
+### Running the Application
+
+1. **Start the development server:**
+   ```bash
+   npm run dev
+   
+### Building for Production
+
+1. **Build the project:**
+   ```bash
+   npm run build
+   
+2. **Serve the production build locally:**
+   ```bash
+   npm run serve
+
+
+
+
+   
+
