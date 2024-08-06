@@ -55,9 +55,5 @@ Make sure you have Node.js and npm installed. You can download them from [here](
 2. **Serve the production build locally:**
    ```bash
    npm run serve
-
-
-
-
    
 
