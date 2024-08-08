@@ -148,6 +148,8 @@ nav img {
     height: 300px !important
 }
 
+
+
 @media only screen and (max-width: 800px) {
     body {
         overflow-x: hidden !important;
@@ -429,7 +431,8 @@ html,
 
 body {
     margin: 0;
-    line-height: inherit
+    line-height: inherit;
+    overflow-x: hidden;
 }
 
 hr {
